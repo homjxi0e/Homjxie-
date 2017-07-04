@@ -1,4 +1,3 @@
-cd ..
 rm -rf folderName Homjxie-
 echo "ok"
 sleep 1.44
