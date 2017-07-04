@@ -55,7 +55,7 @@ echo $BLUE" ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═
 sleep 2.33 # Time Banner
 clear
 
-echo $RED"                          * ===== News_Metasploit ======= *                                    "
+echo $RED"                          * ===== News_Metasploit_======= *                                    "
 echo $RED"| 1:> CVE-2017-0199 Microsoft Office + WordPad    ::   < On Metasploit >                      |"                                       
 echo $RED"| 2:> CVE-2017-0016 Memory Corruption Vulnerability                                           |"
 echo $RED"| 3:> CVE-2017-0213 privilege Administator On windows 10 bit 32 bit 64 < On CMD >             |"                                                                                        
