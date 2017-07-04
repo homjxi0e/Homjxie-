@@ -826,7 +826,8 @@ else
 
 if [ $menuoption = "update" ]; then
 echo "ok !"
-bash Homjxie✔️.sh
+bash /Desktop/Homjxie--master/update.sh
+bash /Homjxie--master/Homjxie-/Homjxie✔️.sh
 else
 
 if [ $menuoption = "17" ]; then
