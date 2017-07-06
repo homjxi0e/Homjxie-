@@ -1,5 +1,4 @@
-[![Awesome](![25440152](https://user-images.githubusercontent.com/25440152/27908557-6131ec02-621a-11e7-9fbb-3f50b17fbda4.png)
-)](https://www.youtube.com/watch?v=AFUukeBJ5kg&t=476s/awesome)
+[![Awesome](https://user-images.githubusercontent.com/25440152/27908557-6131ec02-621a-11e7-9fbb-3f50b17fbda4.png)](https://www.youtube.com/watch?v=AFUukeBJ5kg&t=476s/awesome)
 # what is the tool Homjxie 
 ok name i,am GihadAlkmaty +  Homjxie 2 
 I designed this Homjxie 2 le Download CVE + Enjoy On News 
